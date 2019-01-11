@@ -1,0 +1,6 @@
+name: Books Module
+description: Custom Module created in drupal 8 to show books details
+package: Custom
+type: module
+version: 1.0
+core: 8.x

@@ -1,0 +1,7 @@
+books.books_lists:
+  path: '/get_allbooks'
+  defaults:
+    _controller: 'Drupal\books\Controller\BooksController::bookslists'
+    _title: 'Books Lists'
+  requirements:
+    _permission: 'access content'
