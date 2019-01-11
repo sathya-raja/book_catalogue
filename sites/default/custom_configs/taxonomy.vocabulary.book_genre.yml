@@ -1,0 +1,9 @@
+uuid: cd64c727-2cdc-4333-a401-14814ed55e5e
+langcode: en
+status: true
+dependencies: {  }
+name: 'Book Genre'
+vid: book_genre
+description: ''
+hierarchy: 0
+weight: 0
